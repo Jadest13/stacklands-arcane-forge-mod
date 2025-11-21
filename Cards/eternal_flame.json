@@ -1,0 +1,10 @@
+{
+  "$schema": "../schemas/card.schema.json",
+  "id": "arcaneforge.eternal_flame",
+  "nameTerm": "arcaneforge.card_eternal_flame_name",
+  "descriptionTerm": "arcaneforge.card_eternal_flame_description",
+  "icon": "eternal_flame.png",
+  "value": 7,
+  "type": "Resources",
+  "script": "Resource"
+}

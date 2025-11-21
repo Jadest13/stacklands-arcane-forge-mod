@@ -1,0 +1,46 @@
+{
+  "$schema": "../schemas/blueprint.schema.json",
+  "id": "arcaneforge.blueprint_enchanted_smelter",
+  "nameTerm": "arcaneforge.card_enchanted_smelter_name",
+  "group": "Resources",
+  "NeedsExactMatch": false,
+  "subprints": [
+    {
+      "RequiredCards": "iron_bar, iron_bar, iron_bar, flint, flint, brick, brick, arcaneforge.eternal_flame, arcaneforge.eternal_flame, arcaneforge.eternal_flame",
+      "ResultCard": "arcaneforge.enchanted_smelter",
+      "Time": 60,
+      "StatusTerm": "arcaneforge.idea_enchanted_smelter_status"
+    },
+    {
+      "RequiredCards": "arcaneforge.enchanted_smelter, iron_ore",
+      "ResultCard": "iron_bar",
+      "Time": 10,
+      "StatusTerm": "idea_smelting_status_1"
+    },
+    {
+      "RequiredCards": "arcaneforge.enchanted_smelter, gold_ore",
+      "ResultCard": "gold_bar",
+      "Time": 10,
+      "StatusTerm": "idea_smelting_status_2"
+    },
+    {
+      "RequiredCards": "arcaneforge.enchanted_smelter, gold_bar",
+      "ResultCard": "gold",
+      "ExtraResultCards": "gold, gold",
+      "Time": 10,
+      "StatusTerm": "idea_smelting_status_3"
+    },
+    {
+      "RequiredCards": "arcaneforge.enchanted_smelter, sand",
+      "ResultCard": "glass",
+      "Time": 10,
+      "StatusTerm": "idea_smelting_glass_status"
+    },
+    {
+      "RequiredCards": "arcaneforge.enchanted_smelter, copper_ore",
+      "ResultCard": "copper_bar",
+      "Time": 10,
+      "StatusTerm": "blueprint_copper_bar_status"
+    }
+  ]
+}

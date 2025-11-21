@@ -1,0 +1,15 @@
+{
+  "$schema": "../schemas/blueprint.schema.json",
+  "id": "arcaneforge.blueprint_eternal_flame",
+  "nameTerm": "arcaneforge.card_eternal_flame_name",
+  "group": "Resources",
+  "subprints": [
+    {
+      "RequiredCards": "campfire, magic_dust, magic_dust, magic_dust, flint, charcoal, any_villager",
+      "ResultCard": "arcaneforge.eternal_flame",
+      "Time": 30,
+      "StatusTerm": "arcaneforge.idea_eternal_flame_status",
+      "CardsToRemove": "campfire, magic_dust, magic_dust, magic_dust, flint, charcoal, any_villager"
+    }
+  ]
+}

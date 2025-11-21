@@ -1,0 +1,15 @@
+{
+  "$schema": "../schemas/blueprint.schema.json",
+  "id": "arcaneforge.blueprint_geode",
+  "nameTerm": "arcaneforge.card_geode_name",
+  "group": "Resources",
+  "NeedsExactMatch": false,
+  "subprints": [
+    {
+      "RequiredCards": "arcaneforge.compression_forge, stone, stone, stone, stone, stone, stone, stone, stone, stone, stone",
+      "ResultCard": "arcaneforge.geode",
+      "Time": 10,
+      "StatusTerm": "arcaneforge.idea_geode_status"
+    }
+  ]
+}

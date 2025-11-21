@@ -1,0 +1,14 @@
+{
+  "$schema": "../schemas/blueprint.schema.json",
+  "id": "arcaneforge.blueprint_magic_dust_mine",
+  "nameTerm": "arcaneforge.card_magic_dust_mine_name",
+  "group": "Resources",
+  "subprints": [
+    {
+      "RequiredCards": "flint, magic_dust, wood, stone, any_villager",
+      "ResultCard": "arcaneforge.magic_dust_mine",
+      "Time": 30,
+      "StatusTerm": "arcaneforge.idea_magic_dust_mine_status"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "$schema": "../schemas/blueprint.schema.json",
+  "id": "arcaneforge.blueprint_compression_forge",
+  "nameTerm": "arcaneforge.card_compression_forge_name",
+  "group": "Resources",
+  "subprints": [
+    {
+      "RequiredCards": "iron_bar, iron_bar, iron_bar, iron_bar, flint, flint, brick, brick, magic_dust, any_villager",
+      "ResultCard": "arcaneforge.compression_forge",
+      "Time": 60,
+      "StatusTerm": "arcaneforge.idea_compression_forge_status"
+    },
+    {
+      "RequiredCards": "arcaneforge.compression_forge, gravel, gravel, gravel, magic_dust",
+      "ResultCard": "gravel_deposit",
+      "Time": 30,
+      "StatusTerm": "arcaneforge.idea_gravel_deposit_status"
+    },
+    {
+      "RequiredCards": "arcaneforge.compression_forge, copper_ore, copper_ore, copper_ore, magic_dust",
+      "ResultCard": "copper_deposit",
+      "Time": 30,
+      "StatusTerm": "arcaneforge.idea_copper_deposit_status"
+    },
+    {
+      "RequiredCards": "arcaneforge.compression_forge, uranium, uranium, uranium, magic_dust",
+      "ResultCard": "uranium_deposit",
+      "Time": 30,
+      "StatusTerm": "arcaneforge.idea_uranium_deposit_status"
+    }
+  ]
+}

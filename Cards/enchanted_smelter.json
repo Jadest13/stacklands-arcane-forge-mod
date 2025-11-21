@@ -1,0 +1,11 @@
+{
+  "$schema": "../schemas/card.schema.json",
+  "id": "arcaneforge.enchanted_smelter",
+  "nameTerm": "arcaneforge.card_enchanted_smelter_name",
+  "descriptionTerm": "arcaneforge.card_enchanted_smelter_description",
+  "icon": "enchanted_smelter.png",
+  "value": 7,
+  "type": "Structures",
+  "script": "Resource",
+  "_IsBuilding": true
+}

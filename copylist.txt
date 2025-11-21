@@ -1,0 +1,8 @@
+Blueprints\
+Cards\
+Icons\
+manifest.json
+icon.png
+README.md
+config.json
+localization.tsv

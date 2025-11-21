@@ -1,0 +1,11 @@
+{
+  "$schema": "../schemas/card.schema.json",
+  "id": "arcaneforge.ore_excavator",
+  "nameTerm": "arcaneforge.card_ore_excavator_name",
+  "descriptionTerm": "arcaneforge.card_ore_excavator_description",
+  "icon": "ore_excavator.png",
+  "value": 5,
+  "type": "Structures",
+  "script": "ArcaneForgeNS.OreExcavator",
+  "_IsBuilding": true
+}

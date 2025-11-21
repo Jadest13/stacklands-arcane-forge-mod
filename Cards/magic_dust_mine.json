@@ -1,0 +1,31 @@
+{
+  "$schema": "../schemas/card.schema.json",
+  "id": "arcaneforge.magic_dust_mine",
+  "nameTerm": "arcaneforge.card_magic_dust_mine_name",
+  "descriptionTerm": "arcaneforge.card_magic_dust_mine_description",
+  "icon": "magic_dust_mine.png",
+  "value": 5,
+  "type": "Structures",
+  "script": "CombatableHarvestable",
+  "_IsBuilding": true,
+  "_StatusTerm": "arcaneforge.card_magic_dust_mine_status",
+  "_IsUnlimited": true,
+  "_HarvestTime": 45,
+  "_MyCardBag": {
+    "CardBagType": "Chances",
+    "Chances": [
+      {
+        "Id": "magic_dust",
+        "Chance": 4
+      },
+      {
+        "Id": "stone",
+        "Chance": 1
+      },
+      {
+        "Id": "gold",
+        "Chance": 1
+      }
+    ]
+  }
+}

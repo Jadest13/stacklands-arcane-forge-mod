@@ -1,0 +1,20 @@
+{
+  "$schema": "../schemas/blueprint.schema.json",
+  "id": "arcaneforge.blueprint_ore_excavator",
+  "nameTerm": "arcaneforge.card_ore_excavator_name",
+  "group": "Resources",
+  "subprints": [
+    {
+      "RequiredCards": "iron_bar, iron_bar, iron_bar, iron_bar, iron_bar, factory_parts, factory_parts, factory_parts, electric_motor, electric_motor, flint, oil, any_worker, any_villager, any_villager",
+      "ResultCard": "arcaneforge.ore_excavator",
+      "Time": 60,
+      "StatusTerm": "arcaneforge.idea_ore_excavator_status"
+    },
+    {
+      "RequiredCards": "iron_bar, copper_bar, copper_bar, oil, magic_dust, any_worker",
+      "ResultCard": "electric_motor",
+      "Time": 40,
+      "StatusTerm": "card_electric_motor_status_0"
+    }
+  ]
+}

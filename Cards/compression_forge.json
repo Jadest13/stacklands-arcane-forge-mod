@@ -1,0 +1,11 @@
+{
+  "$schema": "../schemas/card.schema.json",
+  "id": "arcaneforge.compression_forge",
+  "nameTerm": "arcaneforge.card_compression_forge_name",
+  "descriptionTerm": "arcaneforge.card_compression_forge_description",
+  "icon": "compression_forge.png",
+  "value": 5,
+  "type": "Structures",
+  "script": "Resource",
+  "_IsBuilding": true
+}

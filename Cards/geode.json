@@ -1,0 +1,66 @@
+{
+  "$schema": "../schemas/card.schema.json",
+  "id": "arcaneforge.geode",
+  "nameTerm": "arcaneforge.card_geode_name",
+  "descriptionTerm": "arcaneforge.card_geode_description",
+  "icon": "geode.png",
+  "value": 0,
+  "type": "Structures",
+  "script": "Harvestable",
+  "_IsBuilding": false,
+  "_StatusTerm": "arcaneforge.card_geode_status",
+  "_HarvestTime": 10,
+  "_MyCardBag": {
+    "CardBagType": "Chances",
+    "Chances": [
+      {
+        "Id": "stone",
+        "Chance": 35
+      },
+      {
+        "Id": "flint",
+        "Chance": 15
+      },
+      {
+        "Id": "iron_ore",
+        "Chance": 10
+      },
+      {
+        "Id": "gold_ore",
+        "Chance": 7
+      },
+      {
+        "Id": "copper_ore",
+        "Chance": 7
+      },
+      {
+        "Id": "sandstone",
+        "Chance": 6
+      },
+      {
+        "Id": "sand",
+        "Chance": 5
+      },
+      {
+        "Id": "gravel",
+        "Chance": 5
+      },
+      {
+        "Id": "magic_dust",
+        "Chance": 4
+      },
+      {
+        "Id": "oil",
+        "Chance": 3
+      },
+      {
+        "Id": "uranium",
+        "Chance": 2
+      },
+      {
+        "Id": "fossil",
+        "Chance": 1
+      }
+    ]
+  }
+}
