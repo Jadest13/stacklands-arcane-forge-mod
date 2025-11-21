@@ -1,5 +1,7 @@
 # 🔮 Arcane Forge
 
+![Stacklands Banner](https://img.itch.zone/aW1nLzEyOTIwNDEzLnBuZw==/315x250%23c/JtRQJk.png)
+
 **Arcane Forge** is a Stacklands mod that expands mining and metallurgy through powerful magical energy.  
 It introduces **mystical machines**, **enchanted smelters**, and **rare mineral systems** powered by arcane forces.  
 Explore new production chains, unlock **advanced automation**, and discover powerful materials hidden beneath the earth.
