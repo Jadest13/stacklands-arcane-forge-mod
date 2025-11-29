@@ -20,14 +20,12 @@ namespace ArcaneForgeNS
                     CombatableHarvestable parent = (CombatableHarvestable)this.MyGameCard.Parent.CardData;
                     parentActionId = parent.GetActionId("CompleteHarvest");
                     this.MyGameCard.StartTimer(0.5f * parent.HarvestTime, new TimerAction(parent.CompleteHarvest), parent.StatusText, parentActionId, true, false, false);
-                    Debug.Log("isCombatableMine");
                 }
                 else if(isEnergyMine)
                 {
                     EnergyHarvestable parent = (EnergyHarvestable)this.MyGameCard.Parent.CardData;
                     parentActionId = parent.GetActionId("CompleteHarvest");
                     this.MyGameCard.StartTimer(0.5f * parent.HarvestTime, new TimerAction(parent.CompleteHarvest), parent.StatusText, parentActionId, true, false, false);
-                    Debug.Log("isEnergyMine");
                 }
                 else
                 {
