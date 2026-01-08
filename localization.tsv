@@ -1,21 +1,21 @@
-Term	Notes	English	Korean
-arcaneforge.card_compression_forge_name		Compression Forge	압축로
-arcaneforge.card_compression_forge_description		High-Pressure Forge that compresses 10 Stones into a mysterious Geode	돌 10개를 극한의 압력으로 압축해 신비한 정동석을 만들어내는 단조 설비
-arcaneforge.idea_compression_forge_status		Building a Compression Forge	압축로를 건설하는 중
-arcaneforge.card_geode_name		Geode	정동석
-arcaneforge.card_geode_description		Mysterious Stone that hides minerals within. Break it open to see what's inside.	속에 어떤 광물이 들어있는지 알 수 없는 신비한 돌. 부수면 다양한 자원이 나옵니다
-arcaneforge.card_geode_status		Extracting minerals from the Geode	정동석을 부수어 광물을 추출하는 중
-arcaneforge.idea_geode_status		Forming a Geode	정동석을 형성하는 중
-arcaneforge.card_magic_dust_mine_name		Magic Dust Mine	마법의 가루 광산
-arcaneforge.card_magic_dust_mine_description		Mine that produces shimmering Magic Dust from deep within the earth	땅속 깊은 곳에서 반짝이는 마법의 가루를 채취하는 광산
-arcaneforge.card_magic_dust_mine_status		Working In Magic Dust Mine	마법의 가루를 채취하는 중
-arcaneforge.idea_magic_dust_mine_status		Building a Magic Dust Mine	마법의 가루 광산을 건설하는 중
-arcaneforge.card_eternal_flame_name		Eternal Flame	영원의 불꽃
-arcaneforge.card_eternal_flame_description		Magical flame that never fades, used to power advanced forges	결코 꺼지지 않는 마법의 불꽃으로, 고급 제련소의 동력원으로 사용됩니다
-arcaneforge.idea_eternal_flame_status		Summoning the Eternal Flame	영원의 불꽃을 소환하는 중
-arcaneforge.card_enchanted_smelter_name		Enchanted Smelter	마법 제련소
-arcaneforge.card_enchanted_smelter_description		Smelter enhanced by magic that refines metals without fire	불 대신 마법의 에너지로 금속을 제련하는 고급 제련소
-arcaneforge.idea_enchanted_smelter_status		Building an Enchanted Smelter	마법 제련소를 건설하는 중
-arcaneforge.card_ore_excavator_name		Ore Excavator	광석 채굴기
-arcaneforge.card_ore_excavator_description		Advanced machine that automatically extracts ores from deep underground	지하 깊숙이 굴착하여 자동으로 광석을 채취하는 고급 채굴 장치
-arcaneforge.idea_ore_excavator_status		Assembling an Ore Excavator	광석 채굴기를 조립하는 중
+Term	Notes	English	Chinese (Simplified)	Korean
+arcaneforge.card_compression_forge_name		Compression Forge	压缩锻炉	압축로
+arcaneforge.card_compression_forge_description		High-Pressure Forge that compresses 10 Stones into a mysterious Geode	压缩锻炉可以将10块石头压缩成一块神秘水晶矿	돌 10개를 극한의 압력으로 압축해 신비한 정동석을 만들어내는 단조 설비
+arcaneforge.idea_compression_forge_status		Building a Compression Forge	建造压缩锻炉	압축로를 건설하는 중
+arcaneforge.card_geode_name		Geode	水晶矿	정동석
+arcaneforge.card_geode_description		Mysterious Stone that hides minerals within. Break it open to see what's inside.	藏有异界矿物的神秘矿石。打开它看看里面是什么。	속에 어떤 광물이 들어있는지 알 수 없는 신비한 돌. 부수면 다양한 자원이 나옵니다
+arcaneforge.card_geode_status		Extracting minerals from the Geode	从水晶矿中采集资源	정동석을 부수어 광물을 추출하는 중
+arcaneforge.idea_geode_status		Forming a Geode	压缩一个水晶矿	정동석을 형성하는 중
+arcaneforge.card_magic_dust_mine_name		Magic Dust Mine	魔法尘埃矿井	마법의 가루 광산
+arcaneforge.card_magic_dust_mine_description		Mine that produces shimmering Magic Dust from deep within the earth	可以从地底深处采集魔法尘埃的矿井	땅속 깊은 곳에서 반짝이는 마법의 가루를 채취하는 광산
+arcaneforge.card_magic_dust_mine_status		Working In Magic Dust Mine	在魔法尘埃矿井工作	마법의 가루를 채취하는 중
+arcaneforge.idea_magic_dust_mine_status		Building a Magic Dust Mine	建造魔法尘埃矿井	마법의 가루 광산을 건설하는 중
+arcaneforge.card_eternal_flame_name		Eternal Flame	永恒之焰	영원의 불꽃
+arcaneforge.card_eternal_flame_description		Magical flame that never fades, used to power advanced forges	永远不会熄灭的魔法火焰，用于驱动先进熔炉	결코 꺼지지 않는 마법의 불꽃으로, 고급 제련소의 동력원으로 사용됩니다
+arcaneforge.idea_eternal_flame_status		Summoning the Eternal Flame	点燃永恒之焰	영원의 불꽃을 소환하는 중
+arcaneforge.card_enchanted_smelter_name		Enchanted Smelter	魔法熔炉	마법 제련소
+arcaneforge.card_enchanted_smelter_description		Smelter enhanced by magic that refines metals without fire	通过魔法驱动的熔炉，可以不使用燃料精炼金属	불 대신 마법의 에너지로 금속을 제련하는 고급 제련소
+arcaneforge.idea_enchanted_smelter_status		Building an Enchanted Smelter	建造魔法熔炉	마법 제련소를 건설하는 중
+arcaneforge.card_ore_excavator_name		Ore Excavator	矿石挖掘机	광석 채굴기
+arcaneforge.card_ore_excavator_description		Advanced machine that automatically extracts ores from deep underground	自动从地底深处提取矿石的先进机器	지하 깊숙이 굴착하여 자동으로 광석을 채취하는 고급 채굴 장치
+arcaneforge.idea_ore_excavator_status		Assembling an Ore Excavator	组装矿石挖掘机	광석 채굴기를 조립하는 중
