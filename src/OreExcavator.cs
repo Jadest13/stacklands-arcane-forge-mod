@@ -1,6 +1,4 @@
-﻿using UnityEngine;
-
-namespace ArcaneForgeNS
+﻿namespace ArcaneForgeNS
 {
     internal class OreExcavator : CardData
     {
